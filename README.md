@@ -1,6 +1,3 @@
-<!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=SungHyun's%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40)
-
 ## 👋 About Me
 - 💻 내가 필요한 것을 직접 만들며 배우고 성장하는 개발자입니다.  
 - 🌱 현재 **웹 개발 / 백엔드** 공부 중  
