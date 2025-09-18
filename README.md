@@ -16,6 +16,8 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -34,16 +36,7 @@
 
 ---
 
-## ✨ Fun Zone  
-
-![Profile Views](https://komarev.com/ghpvc/?username=byeonsunghyun&color=blueviolet)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=byeonsunghyun&theme=dark&hide_border=true)  
-
-> 🐍 Snake eating my contributions  
-> 
-> ![snake gif](https://github.com/byeonsunghyun/byeonsunghyun/blob/output/github-contribution-grid-snake.svg)
+## ✉️ Contact
+📧 E-mail : **byeonsunghyun@naver.com**
 
 ---
-
-<!-- 푸터 배너 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer)
