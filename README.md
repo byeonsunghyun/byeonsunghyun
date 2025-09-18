@@ -1,7 +1,9 @@
-# 👋 Hi, I'm SungHyun  
+<!-- 헤더 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=SungHyun's%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40)
 
-💻 내가 필요한 것을 직접 만들며 배우고 성장하는 개발자입니다.  
-🌱 현재 **웹 개발 / 백엔드** 공부 중  
+## 👋 About Me
+- 💻 내가 필요한 것을 직접 만들며 배우고 성장하는 개발자입니다.  
+- 🌱 현재 **웹 개발 / 백엔드** 공부 중  
 
 ---
 
@@ -27,10 +29,13 @@
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeonsunghyun&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeonsunghyun&layout=compact&theme=radical)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byeonsunghyun&repo=blog&theme=radical)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=byeonsunghyun&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeonsunghyun&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeonsunghyun&layout=compact&theme=tokyonight)  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byeonsunghyun&repo=blog&theme=tokyonight)
-
 </div>
+
