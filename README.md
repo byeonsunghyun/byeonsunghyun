@@ -31,5 +31,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=byeonsunghyun&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeonsunghyun&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeonsunghyun&layout=compact&theme=radical)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byeonsunghyun&repo=blog&theme=radical)
+
 </div>
 
