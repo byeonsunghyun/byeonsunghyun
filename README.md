@@ -29,10 +29,7 @@
 
 <div align="center">
 
-<!-- GitHub Profile Trophy (안정적) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=byeonsunghyun&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- GitHub Streak (안정적) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=byeonsunghyun&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
