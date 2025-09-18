@@ -34,9 +34,3 @@
 
 </div>
 
----
-
-## ✉️ Contact
-📧 E-mail : **byeonsunghyun@naver.com**
-
----
